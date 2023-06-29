@@ -1,4 +1,4 @@
-#Final version of extractor in cluding a validator
+#Final version of extractor including a validator
 import re
 
 class ExtratorURL:
