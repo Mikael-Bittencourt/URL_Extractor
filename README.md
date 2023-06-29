@@ -1,2 +1,5 @@
 # URL_Extractor
-Small python project that takes a string and finds it's parameters and values, done following the "String em Python" Alura course
+Some of the things learned during the development of this project:
+- String manipulation in Python
+- Application of object orientation
+- Understanding the string class more in depth
